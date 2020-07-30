@@ -101,8 +101,7 @@ ALPHABETS	 : [a-zA-Z]+ ;
 
 WS: [ \t\r\n] -> channel(HIDDEN) ;
 ```
-![](https://github.com/pouyarezaei/simpleinterpreter/blob/master/loop-if.gif)
-![](https://github.com/pouyarezaei/simpleinterpreter/blob/master/map-array.gif)
+![](https://github.com/pouyarezaei/simpleinterpreter/blob/master/loop-if.gif) ![](https://github.com/pouyarezaei/simpleinterpreter/blob/master/map-array.gif)
 
 ###### Array
 
