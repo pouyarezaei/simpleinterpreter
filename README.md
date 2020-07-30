@@ -13,8 +13,8 @@ Terence Parr of the University of San Francisco.
 
 ANTLR takes as input a grammar that specifies a language and generates as output source code for a
 recognizer of that language. While Version 3 supported generating code in the programming languages
-Ada95, ActionScript, C, C#, Java, JavaScript, Objective-C, Perl, Python, Ruby, and Standard ML,[1] the
-current release at present only targets Java, C#, C++,[2] JavaScript, Python, Swift, and Go. A language is
+Ada95, ActionScript, C, C#, Java, JavaScript, Objective-C, Perl, Python, Ruby, and Standard ML, the
+current release at present only targets Java, C#, C++, JavaScript, Python, Swift, and Go. A language is
 specified using a context-free grammar expressed using Extended Backus–Naur Form (EBNF).
 
 #### What is antlr output ?
