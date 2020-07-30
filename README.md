@@ -1,6 +1,6 @@
 #### What is this project?
 
-This is a simple interpreter based on Antler tool and developed using Java and Kotlin for the Android platform
+This is a simple interpreter based on Antlr tool and developed using Java and Kotlin for the Android platform
 
 #### What is antlr ?
 
